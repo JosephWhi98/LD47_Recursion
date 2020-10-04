@@ -1,0 +1,2 @@
+C:\Users\Joseph\Documents\Game Dev\AdventuresInProgramming\VoxelShooterEngine\LD47 - Stuck in a loop\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Joseph\Documents\Game Dev\AdventuresInProgramming\VoxelShooterEngine\LD47 - Stuck in a loop\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
